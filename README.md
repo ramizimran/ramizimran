@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ramizimran
+- 👀 I’m interested in programming, physics, philosophy.
+- 🌱 I’m currently learning full stack web developer.
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/).
