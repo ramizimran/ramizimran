@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @ramizimran
-- 👀 I’m interested in programming, physics, philosophy.
+- 👋 Hi, I’m @ramizimran.
+- 📖 I'm pursuing a bachelor's degree in computer science and engineering.
+- 💖 I’m interested in programming, physics, philosophy.
+- 🎭 I enjoy playing video games, watching anime and listening so much music. 
 - 🌱 I’m currently learning full stack web developer.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/).
