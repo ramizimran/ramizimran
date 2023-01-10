@@ -2,5 +2,5 @@
 - 📖 I am currently working towards earning a bachelor's degree in computer science and engineering.
 - 💖 My areas of interest include programming, physics, and philosophy.
 - 🎭 I have a passion for playing video games, watching anime, and listening to a wide variety of music.
-- 💻 I am currently studying to become a full stack web developer.
+- 💻 I am currently studying to become a Full stack web developer.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/ramizimran/).
